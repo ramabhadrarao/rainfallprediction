@@ -3,4 +3,4 @@ mysql-connector-python
 streamlit_option_menu
 pandas
 sklearn
-
+matplotlib
